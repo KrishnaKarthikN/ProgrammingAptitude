@@ -1,6 +1,6 @@
 package com.xworkz.primeNumbers;
 
-public class PrimeNumbers {
+public class PrimeNumbersUsingForLoop {
 
 	public static void main(String[] args) {
 		int  num = 59 ;
