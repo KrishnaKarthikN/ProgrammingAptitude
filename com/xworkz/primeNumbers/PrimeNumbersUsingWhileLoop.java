@@ -6,7 +6,7 @@ public class PrimeNumbersUsingWhileLoop {
 		int  num = 59 ;
 		int i = 2;
 		int count = 1;
-		while(i < num/2 && num%i ==0 ) {
+		while(i <= num/2 && num%i ==0 ) {
 			count = 0;
 			i++;
 			break;
